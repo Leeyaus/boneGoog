@@ -1,0 +1,5 @@
+yaosulee.key   ← 私鑰（請妥善保存）
+yaosulee.csr   ← 這個要上傳給 Apple Developer
+
+Apple 回傳的 .cer 憑證檔案 
+distribution.cer
